@@ -1,4 +1,8 @@
-rpi-gpio.js
+# Future
+
+I plan to split this into a more modular api to allow for multi-platform support
+
+# rpi-gpio.js
 ==========
 
 Control Raspberry Pi GPIO pins with io.js / node.js
